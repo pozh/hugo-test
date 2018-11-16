@@ -7,3 +7,11 @@ fields:
   default: New title
   label: Title
   name: title
+- type: textarea
+  default: Some text
+  label: Page content
+  name: page_content
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
