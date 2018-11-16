@@ -1,0 +1,9 @@
+---
+label: Sample
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: New title
+  label: Title
+  name: title
